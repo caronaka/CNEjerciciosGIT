@@ -1,5 +1,5 @@
 Principales Paradigmas:
-- Programación Estructurada
-- Programación Orientada a Objetos
-- Programación Funcional
-- Programación Reactiva
+- Programación Estructurada: Lineal. Se lee en orden de ejecucion
+- Programación Orientada a Objetos: Utilizacion de clases y objetos
+- Programación Funcional: Es declarativo, se basa en funciones
+- Programación Reactiva: Se ocupa de datos asincronicos
